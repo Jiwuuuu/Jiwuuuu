@@ -1,5 +1,6 @@
-About Me
-Hi there! 👋
+# **About Me** 
+
+**Hi there! 👋**
 
 I'm Andrei Louise Amrinto, a 2nd-year college student pursuing a Bachelor of Science in Information Technology. I have a keen interest in learning front-end development and am passionate about creating engaging and user-friendly web interfaces.
 
