@@ -6,6 +6,4 @@ I'm **Andrei**, a 1st-year college student pursuing a Bachelor of Science in Inf
 
 Feel free to explore my repositories and see what I'm working on. Let's connect and learn together!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwuuuu)](https://github.com/Jiwuuuu/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwuuuu&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jiwuuuu&show_icons=true&theme=midnight-purple)
