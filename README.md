@@ -1,7 +1,7 @@
 # **About Me** 
 
 **Hi there! 👋**
-I'm Andrei, a 1st-year college student studying Information Technology. I'm passionate about front-end development and eager to dive into game development. Let's connect and learn together!
+I'm Andrei, a 2nd-year college student studying Information Technology. I'm passionate about front-end development and eager to dive into game development. Let's connect and learn together!
 
 # **Connect with me:**
 <p align="left">
