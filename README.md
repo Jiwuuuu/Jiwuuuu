@@ -7,7 +7,7 @@ I'm Andrei, a 1st-year college student studying Information Technology. I'm pass
 <p align="left">
 <a href="https://linkedin.com/in/andrei louise amrinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrei louise amrinto" height="30" width="40" /></a>
 <a href="https://fb.com/andrei amrinto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andrei amrinto" height="30" width="40" /></a>
-<a href="https://instagram.com/drie.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drie.py" height="30" width="40" /></a>
+<a href="https://instagram.com/drie.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="drei.py" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
