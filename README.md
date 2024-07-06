@@ -8,4 +8,4 @@ I'm Andrei, a 1st-year college student studying Information Technology. I'm pass
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwuuuu&show_icons=true&theme=midnight-purple)](https://github.com/Jiwuuuu/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour)
