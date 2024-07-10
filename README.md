@@ -21,5 +21,7 @@ I'm Andrei, a 2nd-year college student studying Information Technology. I'm pass
 # **1ST YEAR PROJECTS** 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=DigiBloom)](https://github.com/Jiwuuuu/DigiBloom)
 
-![](https://komarev.com/ghpvc/?username=Jiwuuuu&color=blueviolet)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=Jiwuuuu&label=Profile%20Views&color=11&icon=5&pretty=true" />
+</a>
 
