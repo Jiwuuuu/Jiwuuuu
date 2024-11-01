@@ -18,8 +18,11 @@ Hey, I'm Andrei, studying IT in my second year. I'm into full-stack development 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&layout=compact)
 
-# **1ST YEAR PROJECTS** 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=DigiBloom)](https://github.com/Jiwuuuu/DigiBloom) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=CineSphere)](https://github.com/Jiwuuuu/CineSphere) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=cinesphere_web)](https://github.com/Jiwuuuu/cinesphere_web)
+# **1ST YEAR PROJECTS (1st & 2nd Semester)** 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=DigiBloom)](https://github.com/Jiwuuuu/DigiBloom) 
+
+# **2ND YEAR PROJECTS (1st Semester)** 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=CineSphere)](https://github.com/Jiwuuuu/CineSphere) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=cinesphere_web)](https://github.com/Jiwuuuu/cinesphere_web)
 
 
 <a href="https://visitcount.itsvg.in">
