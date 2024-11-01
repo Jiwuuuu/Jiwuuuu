@@ -1,7 +1,7 @@
 # **About Me** 
 
 **Hi there! 👋**
-I'm Andrei, a 2nd-year college student studying Information Technology. I'm passionate about full-stack development and interested in experimenting game development. Let's connect and learn together!
+Hey, I'm Andrei, studying IT in my second year. I'm into full-stack development and game development experiments. Let's connect!
 
 # **Connect with me:**
 <p align="left">
@@ -19,7 +19,8 @@ I'm Andrei, a 2nd-year college student studying Information Technology. I'm pass
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&layout=compact)
 
 # **1ST YEAR PROJECTS** 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=DigiBloom)](https://github.com/Jiwuuuu/DigiBloom)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=Purrkour)](https://github.com/Jiwuuuu/Purrkour) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=DigiBloom)](https://github.com/Jiwuuuu/DigiBloom) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=CineSphere)](https://github.com/Jiwuuuu/CineSphere) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&show_icons=true&theme=midnight-purple&repo=cinesphere_web)](https://github.com/Jiwuuuu/cinesphere_web)
+
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Jiwuuuu&label=Profile%20Views&color=11&icon=5&pretty=true" />
