@@ -1,22 +1,22 @@
 <div align="center">
 
-# andrei louise amrinto
+# Andrei Amrinto
 
-full-stack engineer · designer · pangasinan, ph
+Full-Stack Agentic Engineer · Creative Designer · Pangasinan, PH
 
 </div>
 
 ---
 
-## about
+## About
 
-building things on the web, the chain, and the agent layer.
-freelance dev since 2023 — currently studying bs information technology at phinma university of pangasinan.
-i care about code that's quiet and interfaces that move with intention.
+Building things on the web, the chain, and the agent layer.
+Freelance dev since 2023 — currently studying BS Information Technology at University of Pangasinan.
+I care about code that's quiet and interfaces that move with intention.
 
 ---
 
-## stack
+## Tech Stack
 
 **core**
 ![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
