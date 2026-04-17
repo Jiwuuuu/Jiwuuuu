@@ -53,16 +53,16 @@ I care about code that's quiet and interfaces that move with intention.
 <!-- if a card 404s, the repo slug below doesn't match the actual repo name — just edit the `repo=` value -->
 
 <a href="https://github.com/Jiwuuuu/orchestor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=orchestor&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
+  <img src="https://github.com/user-attachments/assets/ed5fb229-2d3a-41a6-b22b-af0f018b2380" />
 </a>
 <a href="https://github.com/Jiwuuuu/avelon">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=avelon&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
+  <img src="https://github.com/user-attachments/assets/3a2eccc1-f85e-467b-b752-054845e7a348" />
 </a>
 <a href="https://github.com/Jiwuuuu/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=portfolio&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
+  <img src="https://github.com/user-attachments/assets/11aa9257-d728-4cb7-9857-353b23cec7c9" />
 </a>
-<a href="https://github.com/Jiwuuuu/portfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=portfolio&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
+<a href="https://github.com/Jiwuuuu/purrkour">
+  <img src="https://github.com/user-attachments/assets/7119530e-d536-408e-ba18-8741a217008a" />
 </a>
 
 — **Orchestor** · agentic ai for the ibm watsonx hackathon <br>
