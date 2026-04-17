@@ -61,10 +61,14 @@ I care about code that's quiet and interfaces that move with intention.
 <a href="https://github.com/Jiwuuuu/portfolio">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=portfolio&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
 </a>
+<a href="https://github.com/Jiwuuuu/portfolio">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jiwuuuu&repo=portfolio&theme=transparent&border_color=eaeaea&hide_border=false&title_color=0a0a0a&text_color=4a4a4a&icon_color=0a0a0a" />
+</a>
 
-— **orchestor** · agentic ai for the ibm watsonx hackathon
-— **avelon** · evm-based crypto lending capstone, written in solidity
-— **portfolio** · the site at [andrei-rust.vercel.app](https://andrei-rust.vercel.app)
+— **Orchestor** · agentic ai for the ibm watsonx hackathon <br>
+— **Avelon** · evm-based crypto lending capstone, written in solidity <br>
+— **Portfolio** · The site at [andrei-rust.vercel.app](https://andrei-rust.vercel.app) <br>
+— **Purrkour** · the site at [andrei-rust.vercel.app](https://andrei-rust.vercel.app) <br>
 
 ---
 
