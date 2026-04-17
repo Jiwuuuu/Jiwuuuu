@@ -86,7 +86,7 @@ I care about code that's quiet and interfaces that move with intention.
 
 ---
 
-## stats
+## Stats
 
 <a href="https://github.com/Jiwuuuu">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jiwuuuu&show_icons=true&hide_border=true&theme=transparent&include_all_commits=true&count_private=true&title_color=58a6ff&text_color=8b949e&icon_color=58a6ff" />
@@ -97,9 +97,9 @@ I care about code that's quiet and interfaces that move with intention.
 
 ---
 
-## reach
+## Reach
 
-[![Portfolio](https://img.shields.io/badge/portfolio-andrei--rust.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://andrei-rust.vercel.app)
-[![Email](https://img.shields.io/badge/email-andr.amrinto%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andr.amrinto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-dreiiii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dreiiii/)
-[![Instagram](https://img.shields.io/badge/instagram-drei.py-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/drei.py/)
+[![Portfolio](https://img.shields.io/badge/portfolio-andrei--rust.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white)](https://andrei-rust.vercel.app) <br>
+[![Email](https://img.shields.io/badge/email-andr.amrinto%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:andr.amrinto@gmail.com) <br>
+[![LinkedIn](https://img.shields.io/badge/linkedin-dreiiii-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dreiiii/) <br>
+[![Instagram](https://img.shields.io/badge/instagram-drei.py-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/drei.py/) <br>
