@@ -19,56 +19,70 @@ I care about code that's quiet and interfaces that move with intention.
 ## Tech Stack
 
 **core**
-![TypeScript](https://img.shields.io/badge/TypeScript-0a0a0a?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-0a0a0a?style=flat-square&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/React-0a0a0a?style=flat-square&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-0a0a0a?style=flat-square&logo=tailwindcss&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 **backend**
-![Node.js](https://img.shields.io/badge/Node.js-0a0a0a?style=flat-square&logo=node.js&logoColor=white)
-![Hono](https://img.shields.io/badge/Hono-0a0a0a?style=flat-square&logo=hono&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-0a0a0a?style=flat-square&logo=prisma&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-0a0a0a?style=flat-square&logo=supabase&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **ai · data**
-![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-0a0a0a?style=flat-square&logo=pytorch&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20API-0a0a0a?style=flat-square&logo=anthropic&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude%20API-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **web3**
-![Solidity](https://img.shields.io/badge/Solidity-0a0a0a?style=flat-square&logo=solidity&logoColor=white)
-![Hardhat](https://img.shields.io/badge/Hardhat-0a0a0a?style=flat-square&logoColor=white)
-![viem](https://img.shields.io/badge/viem-0a0a0a?style=flat-square&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logoColor=black)
+![viem](https://img.shields.io/badge/viem-FFC517?style=flat-square&logoColor=black)
 
-**mobile**
-![React Native](https://img.shields.io/badge/React%20Native-0a0a0a?style=flat-square&logo=react&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-0a0a0a?style=flat-square&logo=flutter&logoColor=white)
+**mobile · game**
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 
 ---
 
 ## selected work
 
-<!-- if a card 404s, the repo slug below doesn't match the actual repo name — just edit the `repo=` value -->
+<!-- if a card link 404s, the repo slug doesn't match the actual repo name — just edit the href -->
 
-<a href="https://github.com/Jiwuuuu/orchestor">
-  <img src="https://github.com/user-attachments/assets/ed5fb229-2d3a-41a6-b22b-af0f018b2380" />
-</a>
-<a href="https://github.com/Jiwuuuu/avelon">
-  <img src="https://github.com/user-attachments/assets/3a2eccc1-f85e-467b-b752-054845e7a348" />
-</a>
-<a href="https://github.com/Jiwuuuu/portfolio">
-  <img src="https://github.com/user-attachments/assets/11aa9257-d728-4cb7-9857-353b23cec7c9" />
-</a>
-<a href="https://github.com/Jiwuuuu/purrkour">
-  <img src="https://github.com/user-attachments/assets/7119530e-d536-408e-ba18-8741a217008a" />
-</a>
-
-— **Orchestor** · agentic ai for the ibm watsonx hackathon <br>
-— **Avelon** · evm-based crypto lending capstone, written in solidity <br>
-— **Portfolio** · The site at [andrei-rust.vercel.app](https://andrei-rust.vercel.app) <br>
-— **Purrkour** · the site at [andrei-rust.vercel.app](https://andrei-rust.vercel.app) <br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jiwuuuu/orchestor">
+        <img src="https://github.com/user-attachments/assets/ed5fb229-2d3a-41a6-b22b-af0f018b2380" width="100%" />
+      </a>
+      <p><b>Orchestor</b> — agentic ai for the ibm watsonx hackathon</p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jiwuuuu/avelon">
+        <img src="https://github.com/user-attachments/assets/3a2eccc1-f85e-467b-b752-054845e7a348" width="100%" />
+      </a>
+      <p><b>Avelon</b> — evm-based crypto lending capstone, written in solidity</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jiwuuuu/portfolio">
+        <img src="https://github.com/user-attachments/assets/11aa9257-d728-4cb7-9857-353b23cec7c9" width="100%" />
+      </a>
+      <p><b>Portfolio</b> — the site at <a href="https://andrei-rust.vercel.app">andrei-rust.vercel.app</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Jiwuuuu/purrkour">
+        <img src="https://github.com/user-attachments/assets/7119530e-d536-408e-ba18-8741a217008a" width="100%" />
+      </a>
+      <p><b>Purrkour</b> — a 2d platformer made in godot</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
