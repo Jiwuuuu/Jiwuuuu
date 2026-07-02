@@ -2,7 +2,7 @@
 
 # Andrei Amrinto
 
-Full-Stack Agentic Engineer · Creative Designer · Pangasinan, PH
+Full-Stack Agentic Engineer · Chief Technology Officer · Pangasinan, PH
 
 </div>
 
