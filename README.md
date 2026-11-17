@@ -2,7 +2,7 @@
 
 # Andrei Amrinto
 
-Full-Stack Agentic Engineer · Chief Technology Officer · Pangasinan, PH
+Full-Stack Agentic Engineer · Pangasinan, PH
 
 </div>
 
@@ -12,11 +12,19 @@ Full-Stack Agentic Engineer · Chief Technology Officer · Pangasinan, PH
 
 <h2>About</h2>
 
-Full-stack developer, freelance since 2023. I design architecture and write the code that goes with it. <br><br>
-I build web apps, desktop software, mobile apps, and games. <br><br>
-Open to contract work - the more system-level, the better.
+Full-stack developer, freelancing since 2023. I design the architecture and write the code for it: web apps, mobile apps, desktop software, and games. <br><br>
+Lately most of my work is LLM features: RAG over document sets, speech-to-text, and agents that call tools across multi-step tasks. <br><br>
+Open to contract work. The more system-level, the better.
 
 </div>
+
+---
+
+## Now
+
+- Building an internal dashboard and careers site on Next.js, Supabase, and Vercel for a US company
+- RAG and speech-to-text tooling for freelance clients
+- Finishing a BS in IT (May 2027)
 
 ---
 
@@ -78,7 +86,7 @@ Open to contract work - the more system-level, the better.
 
 ## selected work
 
-<!-- if a card link 404s, the repo slug doesn't match the actual repo name — just edit the href -->
+<!-- if a card link 404s, the repo slug doesn't match the actual repo name. just edit the href -->
 
 <table>
   <tr>
@@ -86,13 +94,13 @@ Open to contract work - the more system-level, the better.
       <a href="https://github.com/Jiwuuuu/orchestor">
         <img src="https://github.com/user-attachments/assets/ed5fb229-2d3a-41a6-b22b-af0f018b2380" width="100%" />
       </a>
-      <p><b>Orchestor</b> — agentic ai for the ibm watsonx hackathon</p>
+      <p><b>Orchestor</b>: agentic ai for the ibm watsonx hackathon</p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jiwuuuu/avelon">
         <img src="https://github.com/user-attachments/assets/3a2eccc1-f85e-467b-b752-054845e7a348" width="100%" />
       </a>
-      <p><b>Avelon</b> — evm-based crypto lending capstone, written in solidity</p>
+      <p><b>Avelon</b>: evm-based crypto lending capstone, written in solidity</p>
     </td>
   </tr>
   <tr>
@@ -100,13 +108,13 @@ Open to contract work - the more system-level, the better.
       <a href="https://github.com/Jiwuuuu/portfolio">
         <img src="https://github.com/user-attachments/assets/11aa9257-d728-4cb7-9857-353b23cec7c9" width="100%" />
       </a>
-      <p><b>Portfolio</b> — the site at <a href="https://andrei-rust.vercel.app">andrei-rust.vercel.app</a></p>
+      <p><b>Portfolio</b>: the site at <a href="https://andrei-rust.vercel.app">andrei-rust.vercel.app</a></p>
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Jiwuuuu/purrkour">
         <img src="https://github.com/user-attachments/assets/7119530e-d536-408e-ba18-8741a217008a" width="100%" />
       </a>
-      <p><b>Purrkour</b> — a 2d platformer made in godot</p>
+      <p><b>Purrkour</b>: a 2d platformer made in godot</p>
     </td>
   </tr>
 </table>
